@@ -1,12 +1,13 @@
 name: cached_blurhash
 description: >
   Compact representation of placeholder for an image.
-  Encode a blurry image under 30 characters for instant display like used by Medium
-version: 0.9.1
-homepage: https://github.com/fluttercommunity/flutter_blurhash
-repository: https://github.com/fluttercommunity/flutter_blurhash
-issue_tracker: https://github.com/fluttercommunity/flutter_blurhash/issues
-maintainer: Robert Felker (@Solido)
+  Encode a blurry image under 30 characters for instant display like used by Medium.
+  A fork of flutter_blurhash with added support for image caching using cached_network_image.
+version: 0.0.1
+homepage: https://github.com/sourabhappdev/cached_blurhash
+repository: https://github.com/sourabhappdev/cached_blurhash
+issue_tracker: https://github.com/sourabhappdev/cached_blurhash/issues
+maintainer: Sourabh Sharma (@sourabhappdev)
 
 screenshots:
   - description: 'Content preview as blurred buffer.'
